@@ -681,6 +681,7 @@ hr {
   .score-container, .best-container {
     margin-top: 0;
     padding: 15px 10px;
+    font-size: 25px;
     min-width: 40px; }
 
   .heading {
