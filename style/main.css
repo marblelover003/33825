@@ -761,7 +761,7 @@ hr {
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
-    background: #bbada0;
+    background: #333333;
     border-radius: 6px;
     width: 270px;
     height: 270px;
@@ -833,7 +833,7 @@ hr {
     margin-right: 5px;
     float: left;
     border-radius: 3px;
-    background: #ff8080; }
+    background: #222222; }
     .grid-cell:last-child {
       margin-right: 0; }
 
