@@ -107,14 +107,14 @@ HTMLActuator.prototype.updateScore = function (score) {
   this.clearContainer(this.scoreContainer);
 
   var difference = score - this.score;
-  this.score = score.toLocaleString();
+  this.score = score;
 
-  this.scoreContainer.textContent = this.score;
+  this.scoreContainer.textContent = this.score.toLocaleString();
 
   if (difference > 0) {
     var addition = document.createElement("div");
     addition.classList.add("score-addition");
-    addition.textContent = difference.toLocaleString();
+    addition.textContent = "+" + difference.toLocaleString();
 
     this.scoreContainer.appendChild(addition);
   }
