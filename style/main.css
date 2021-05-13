@@ -461,91 +461,91 @@ hr {
       .tile.tile-6765 .tile-inner {font-size: 13px; } }
   .tile.tile-10946 .tile-inner {
     color: #f9f6f2;
-    background: #edb000;
+    background: #edb800;
     font-size: 23px;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.87302), inset 0 0 0 1px rgba(255, 255, 255, 0.52381); }
     @media screen and (max-width: 520px) {
       .tile.tile-10946 .tile-inner {font-size: 11px; } }
   .tile.tile-17711 .tile-inner {
     color: #f9f6f2;
-    background: #eba000;
+    background: #edb400;
     font-size: 23px;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.95238), inset 0 0 0 1px rgba(255, 255, 255, 0.57143); }
     @media screen and (max-width: 520px) {
       .tile.tile-17711 .tile-inner {font-size: 11px; } }
   .tile.tile-28657 .tile-inner {
     color: #776e65;
-    background: #b2e3e6;
+    background: #edb000;
     font-size: 23px;
-    box-shadow: 0 0 30px 10px rgba(78, 77, 255, 0.07937), inset 0 0 0 1px rgba(255, 255, 255, 0.04762); }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.95238), inset 0 0 0 1px rgba(255, 255, 255, 0.57143); }
     @media screen and (max-width: 520px) {
       .tile.tile-28657 .tile-inner {font-size: 11px; } }
   .tile.tile-46368 .tile-inner {
     color: #f9f6f2;
-    background: #9ec5eb;
+    background: #eda800;
     font-size: 23px;
-    box-shadow: 0 0 30px 10px rgba(78, 77, 255, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286); }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.95238), inset 0 0 0 1px rgba(255, 255, 255, 0.57143); }
     @media screen and (max-width: 520px) {
       .tile.tile-46368 .tile-inner {font-size: 11px; } }
   .tile.tile-75025 .tile-inner {
     color: #f9f6f2;
-    background: #8aa7f0;
+    background: #eda000;
     font-size: 23px;
-    box-shadow: 0 0 30px 10px rgba(78, 77, 255, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381); }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.95238), inset 0 0 0 1px rgba(255, 255, 255, 0.57143); }
     @media screen and (max-width: 520px) {
       .tile.tile-75025 .tile-inner {font-size: 11px; } }
   .tile.tile-121393 .tile-inner {
     color: #f9f6f2;
-    background: #7689f5;
+    background: #ed9000;
     font-size: 19px;
-    box-shadow: 0 0 30px 10px rgba(78, 77, 255, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333); }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.95238), inset 0 0 0 1px rgba(255, 255, 255, 0.57143); }
     @media screen and (max-width: 520px) {
       .tile.tile-121393 .tile-inner {font-size: 9px; } }
   .tile.tile-196418 .tile-inner{
     color: #f9f6f2;
-    background: #626bfa;
+    background: #ddddff;
     font-size: 19px;
-    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.59524), inset 0 0 0 1px rgba(255,255,255, 0.33333); }
+    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.2381), inset 0 0 0 1px rgba(255,255,255, 0.14286); }
   .tile.tile-317811 .tile-inner{
     color: #f9f6f2;
-    background: #4e4dff;
+    background: #bbbbff;
     font-size: 19px;
-    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.63492), inset 0 0 0 1px rgba(255,255,255, 0.35714); }
+    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.31746), inset 0 0 0 1px rgba(255,255,255, 0.19048); }
   .tile.tile-514229 .tile-inner{
     color: #f9f6f2;
-    background: #3a2ff7;
+    background: #9999ff;
     font-size: 19px;
-    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.6746), inset 0 0 0 1px rgba(255,255,255, 0.38095); }
+    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.39683), inset 0 0 0 1px rgba(255,255,255, 0.2381); }
   .tile.tile-832040 .tile-inner{
     color: #f9f6f2;
-    background: #2611ef;
+    background: #6666ff;
     font-size: 19px;
-    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.71429), inset 0 0 0 1px rgba(255,255,255, 0.40476); }
+    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.47619), inset 0 0 0 1px rgba(255,255,255, 0.28571); }
   .tile.tile-1346269 .tile-inner{
     color: #f9f6f2;
-    background: #1200df;
+    background: #3333ff;
     font-size: 17px;
-    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.75397), inset 0 0 0 1px rgba(255,255,255, 0.42857); }
+    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.55556), inset 0 0 0 1px rgba(255,255,255, 0.33333); }
   .tile.tile-2178309 .tile-inner{
     color: #f9f6f2;
-    background: #0000cf;
+    background: #0000ee;
     font-size: 17px;
-    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.79365), inset 0 0 0 1px rgba(255,255,255, 0.45238); }
+    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.63492), inset 0 0 0 1px rgba(255,255,255, 0.38095); }
   .tile.tile-3524578 .tile-inner{
     color: #f9f6f2;
-    background: #0000bf;
+    background: #0000dd;
     font-size: 17px;
-    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.83333), inset 0 0 0 1px rgba(255,255,255, 0.5); }
+    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.71429), inset 0 0 0 1px rgba(255,255,255, 0.42857); }
   .tile.tile-5702887 .tile-inner{
     color: #f9f6f2;
-    background: #00009f;
+    background: #0000cc;
     font-size: 17px;
-    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.87302), inset 0 0 0 1px rgba(255,255,255, 0.52381); }
+    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.79365), inset 0 0 0 1px rgba(255,255,255, 0.47619); }
   .tile.tile-9227465 .tile-inner{
     color: #f9f6f2;
-    background: #000080;
+    background: #0000aa;
     font-size: 17px;
-    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.9127), inset 0 0 0 1px rgba(255,255,255, 0.54762); }
+    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.87302), inset 0 0 0 1px rgba(255,255,255, 0.52381); }
   .tile.tile-14930352 .tile-inner{font-size: 14px;}
   .tile.tile-24157817 .tile-inner{font-size: 14px;}
   .tile.tile-39088169 .tile-inner{font-size: 14px;}
@@ -564,7 +564,8 @@ hr {
   .tile.tile-20365011074 .tile-inner{font-size: 10px;} /* MAX */
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
-    background: #000055; }
+    background: #000055;
+    box-shadow: 0 0 30px 10px rgba(78,77,255, 0.95238), inset 0 0 0 1px rgba(255,255,255, 0.57143); }
 @media screen and (max-width: 520px) {
   .tile.tile-196418 .tile-inner{font-size: 9px;}
   .tile.tile-317811 .tile-inner{font-size: 9px;}
