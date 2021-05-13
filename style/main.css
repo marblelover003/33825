@@ -27,27 +27,27 @@ h1.title {
 @-webkit-keyframes fadeout {
   0% {
     opacity: 1;
-    top: 120px; }
+    top: 60px; }
 
   100% {
     opacity: 0;
-    top: 0px; } }
+    top: -60px; } }
 @-moz-keyframes fadeout {
   0% {
     opacity: 1;
-    top: 120px; }
+    top: 60px; }
 
   100% {
     opacity: 0;
-    top: 0px; } }
+    top: -60px; } }
 @keyframes fadeout {
   0% {
     opacity: 1;
-    top: 120px; }
+    top: 60px; }
 
   100% {
     opacity: 0;
-    top: 0px; } }
+    top: -60px; } }
 .scores-container {
   float: right;
   text-align: right; }
